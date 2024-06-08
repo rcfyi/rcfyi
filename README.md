@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rcfyi
+- 👋 Hi, I’m rohit chitawadagi
 - 👀 I’m interested in deep learning
 - 🌱 I’m currently learning reinforcement learning
-- 😄 Pronouns: he/him
+  
 
 <!---
 rcfyi/rcfyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
